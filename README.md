@@ -8,6 +8,8 @@ The system focuses on monitoring AWS Secrets Manager activity and generating ale
 
 ---
 <img width="2956" height="1108" alt="image" src="https://github.com/user-attachments/assets/2430d598-3170-496d-8507-c608a2de01d8" />
+<img width="3288" height="1654" alt="image" src="https://github.com/user-attachments/assets/3aba5614-054e-4fcf-8247-fe7fcaa6412c" />
+
 
 
 ## 🧱 Architecture
