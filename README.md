@@ -79,14 +79,4 @@ Email Notification
 - Improved compliance and audit visibility  
 - Enhanced protection of sensitive data  
 
----
-
-
-
-
-## 🚀 Skills Gained
-- Cloud Security Monitoring  
-- AWS Logging & Alerting  
-- Incident Detection & Response  
-- Event-driven Security Architecture  
 
